@@ -1,4 +1,7 @@
-[
+{
+code:0,
+message:"msg",
+data:[
   {
     "id": 1,
     "hexColorCode": "06ab8d",
@@ -28,3 +31,4 @@
     "hexColorCode": "FFBB86FC",
   }
 ]
+}
